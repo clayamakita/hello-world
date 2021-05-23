@@ -1,2 +1,2 @@
 # hello-world
-Repository test to set up Git in my machine.
+Test repository to set up Git in my machine.
